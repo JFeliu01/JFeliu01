@@ -49,6 +49,6 @@ I'm a **Civil Computer Engineering student** at the **Universidad de Chile** and
 
 ---
 
-### 🏆 Achievements:
-- **Top Contributor** in multiple projects
+### Hobbies:
+- **VolleyBall** VolleyBeaauchef ![volleyveauchef](./volleybeauchef.png) is a student organized community which I manage
 - Currently active in **Open-Source** projects related to web development and data science
