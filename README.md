@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Jorge Andrés Feliú Guzmán
+# Hello! 🦆 I'm Jorge Andrés Feliú Guzmán
 
-I'm a **Civil Computer Engineering student** at the **Universidad de Chile** and currently working as a **Junior Software Developer at Adara**. My passion lies in **Data Science**, **Full-Stack Development**, and **Cloud Computing**. I enjoy learning new technologies and constantly improving my skills through practical projects and challenges.
+**Civil Computer Engineering student** at the **Universidad de Chile** and currently working as a **Junior Software Developer at Adara**. My passion lies in **Data Science**, **Full-Stack Development**, and **Cloud Computing**. I enjoy learning new technologies and constantly improving my skills through practical projects and challenges.
 
 ---
 
-![Profile Banner](./outlet-bg.jpeg)
+![Profile Banner](./img/outlet-bg.jpeg)
 
 ---
 
@@ -53,6 +53,6 @@ I'm a **Civil Computer Engineering student** at the **Universidad de Chile** and
 - **VolleyBall** VolleyBeaauchef is a student organized community which I manage
   <br>
     <a href="https://www.youtube.com/@volleybeauchef342" target="_blank">
-     <img src="./volleybeauchef.png" alt="VolleyBeauchef" width="300">
+     <img src="./img/volleybeauchef.png" alt="VolleyBeauchef" width="300">
     </a>
   <br>
