@@ -50,5 +50,10 @@ I'm a **Civil Computer Engineering student** at the **Universidad de Chile** and
 ---
 
 ### Hobbies:
-- **VolleyBall** VolleyBeaauchef ![volleyveauchef](./volleybeauchef.png) is a student organized community which I manage
+- **VolleyBall** VolleyBeaauchef is a student organized community which I manage
+  <br>
+    <a href="https://www.youtube.com/@volleybeauchef342" target="_blank">
+     <img src="./volleybeauchef.png" alt="VolleyBeauchef" width="300">
+    </a>
+  <br>
 - Currently active in **Open-Source** projects related to web development and data science
