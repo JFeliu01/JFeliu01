@@ -56,4 +56,3 @@ I'm a **Civil Computer Engineering student** at the **Universidad de Chile** and
      <img src="./volleybeauchef.png" alt="VolleyBeauchef" width="300">
     </a>
   <br>
-- Currently active in **Open-Source** projects related to web development and data science
