@@ -6,11 +6,11 @@ I'm a **Civil Computer Engineering student** at the **Universidad de Chile** and
 
 ### 🔧 Technologies & Tools
 
-- **Languages**: Python, JavaScript, TypeScript, CSS, HTML, SQL
-- **Frameworks & Libraries**: React, Express.js, FastAPI
+- **Languages**: Python, JavaScript, TypeScript, CSS, HTML, SQL, Java, C, C++
+- **Frameworks & Libraries**: React, Express.js, FastAPI, Jest, scikit-learn
 - **Data Science**: Google Cloud Platform (GCP), ETL (Extract, Transform, Load)
-- **Development**: Full-Stack Development, Git, Docker, Google Cloud, Grafana, Loki
-- **Other Tools**: Visual Studio Code, Promtail
+- **Development**: Full-Stack Development, Git, Docker, Google Cloud, Yarn
+- **Other Tools**: Visual Studio Code
 
 ---
 
