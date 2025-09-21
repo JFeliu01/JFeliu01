@@ -44,11 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFeliu01&show_icons=true&theme=dark&count_private=true)
-
----
-
 ### Hobbies:
 - **VolleyBall** VolleyBeaauchef is a student organized community which I manage
   <br>
